@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Luca388&show_icons=true&theme=radical"/> <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luca388&layout=compact&theme=onedark"/> <br/>
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=ain388(https://solved.ac/ain388)"/> <br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ain388)](https://solved.ac/ain388)<br/>
 
 <div>
