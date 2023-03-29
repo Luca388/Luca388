@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca388&show_icons=true&theme=radical) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca388&layout=compact&theme=onedark) <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ain388)](https://solved.ac/ain388) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ain388)](https://solved.ac/ain388) <br/>
+"http://mazandi.herokuapp.com/api?handle=(유저 아이디)&theme=(원하는 테마)"
